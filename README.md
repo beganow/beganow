@@ -1,5 +1,5 @@
 <h3 align="center" >
-  Welcome to Pavel's profile!<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="28"> 
+  Welcome to Pavel's profile!</br><img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="440" height="45"> 
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beganow&label=Profile%20views&color=007FFF&style=flat-square" alt="bxr1ng" /> </p>
 
